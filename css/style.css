@@ -8,7 +8,7 @@ body{
 }
 .button{
     background-image: linear-gradient(to right, rgb(0, 255, 242) , rgb(0, 174, 255));
-    color:rgb(20, 102, 255);
+    color:rgb(56, 56, 56);
     border: none;
     border-radius:10px;
     width:250px;
